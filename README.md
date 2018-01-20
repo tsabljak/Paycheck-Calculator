@@ -1,4 +1,4 @@
-# Paycheck-Calculator
+# Chk2Pay
 App for calculating your paycheck.
 
 # Croatian
